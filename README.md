@@ -1,9 +1,12 @@
 ## Hi there 👋 I'm Danny!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h1 align="center">Frontend Engineer | React & Next.js Specialist | Building High-Impact Web Interfaces</h1>
 
+<p align="center">
+  <a href="https://your-portfolio.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
 <!--
 **dcmillea/dcmillea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
