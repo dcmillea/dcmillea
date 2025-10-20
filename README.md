@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Danny!
+## Daniel Millea
 
-<h1 align="center">Frontend Engineer | React & Next.js Specialist | Building High-Impact Web Interfaces</h1>
+<h1 align="center">Hi there 👋 I'm Danny!</h1>
 
 <p align="center">
   <a href="https://your-portfolio.com">Portfolio</a> •
