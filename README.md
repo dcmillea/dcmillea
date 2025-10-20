@@ -51,7 +51,7 @@ Currently, I'm focused on:
 | 🌐 Website  | [dcmillea.com](https://dcmillea.com)      |
 | 💼 LinkedIn | [My Profile](https://www.linkedin.com/in/daniel-millea-3666b138a/) |
 
-If you scrolled down this far, I have a challenge for you. Beat the bossfight in my video game and I'll put your name in the credits of my next game. --> https://thedansauce.itch.io/trojan-warrior 
+If you scrolled down this far, I have a challenge for you. Beat the bossfight in my video game and I'll put your name in the credits for my next game. --> https://thedansauce.itch.io/trojan-warrior 
 
 <!--
 **dcmillea/dcmillea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
