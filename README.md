@@ -48,7 +48,7 @@ Currently, I'm focused on:
 
 ## 📬 Quick Links
 
-| 🔖 Item     | 📎 Link / Info                                   |
+| 🔖 Item     | 📎 Link                                   |
 |------------|--------------------------------------------------|
 | 📄 Resume   | [View Resume](https://your-link.com/resume.pdf) |
 | 📧 Contact  | [Email Me](mailto:dcmillea@gmail.com)              |
