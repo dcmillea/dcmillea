@@ -42,6 +42,11 @@ Currently, I'm focused on:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
+<div style="width: 100%; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 20px 0;">
+  <strong>💡 Tip:</strong> This is a full-width bar with a border and custom background color.
+</div>
+
+
 <p align="center">
   <a target="_" href="https://dcmillea.com">Personal Website</a> •
   <a href="https://www.linkedin.com/in/daniel-millea-3666b138a/">LinkedIn</a> •
