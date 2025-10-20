@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋 I'm Danny!</h1>
 
 <p align="center">
-  <a href="https://dcmillea.com">Personal Website</a> •
+  <a target="_" href="https://dcmillea.com">Personal Website</a> •
   <a href="https://www.linkedin.com/in/daniel-millea-3666b138a/">LinkedIn</a> •
   <a href="mailto:dcmillea@gmail.com">Email</a>
 </p>
