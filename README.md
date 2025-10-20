@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi there 👋 I'm Danny!</h1>
 
-## Who is this Danny?
-
 I'm a passionate frontend engineer with a love for building interactive, visually dynamic applications using React, TypeScript, and modern frameworks. When I'm not building beautiful web apps, I enjoy building video games, boxing, and watching comedy movies.
 
 Currently, I'm focused on:
