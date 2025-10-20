@@ -2,6 +2,15 @@
 
 <h1 align="center">Hi there 👋 I'm Danny!</h1>
 
+## Who is this Danny?
+
+I'm a passionate frontend engineer with a love for building interactive, visually dynamic applications using React, TypeScript, and modern frameworks. When I'm not building beautiful web apps, I enjoy building video games, boxing, and watching comedy movies.
+
+Currently, I'm focused on:
+- 🔭 Building a full-stack SaaS web app that combines my love for video games and good habits.
+- 🧠 Learning more about JWT and user authentication
+
+
 ## 🧰 Tech Stack
 
 ### 🖥️ Languages
@@ -34,7 +43,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
-
 
 <p align="center">
   <a target="_" href="https://dcmillea.com">Personal Website</a> •
