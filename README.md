@@ -46,6 +46,16 @@ Currently, I'm focused on:
   <strong>💡 Tip:</strong> This is a full-width bar with a border and custom background color.
 </div>
 
+## 📬 Quick Links
+
+| 🔖 Item     | 📎 Link / Info                                   |
+|------------|--------------------------------------------------|
+| 📄 Resume   | [View Resume](https://your-link.com/resume.pdf) |
+| 📧 Contact  | [Email Me](mailto:you@example.com)              |
+| 🌐 Website  | [yourwebsite.com](https://yourwebsite.com)      |
+| 💼 LinkedIn | [LinkedIn Profile](https://linkedin.com/in/yourhandle) |
+| 🐙 GitHub   | [GitHub Profile](https://github.com/yourhandle) |
+
 
 <p align="center">
   <a target="_" href="https://dcmillea.com">Personal Website</a> •
