@@ -51,10 +51,9 @@ Currently, I'm focused on:
 | 🔖 Item     | 📎 Link / Info                                   |
 |------------|--------------------------------------------------|
 | 📄 Resume   | [View Resume](https://your-link.com/resume.pdf) |
-| 📧 Contact  | [Email Me](mailto:you@example.com)              |
-| 🌐 Website  | [yourwebsite.com](https://yourwebsite.com)      |
-| 💼 LinkedIn | [LinkedIn Profile](https://linkedin.com/in/yourhandle) |
-| 🐙 GitHub   | [GitHub Profile](https://github.com/yourhandle) |
+| 📧 Contact  | [Email Me](mailto:dcmillea@gmail.com)              |
+| 🌐 Website  | [yourwebsite.com](https://dcmillea.com)      |
+| 💼 LinkedIn | [LinkedIn Profile](https://www.linkedin.com/in/daniel-millea-3666b138a/) |
 
 
 <p align="center">
