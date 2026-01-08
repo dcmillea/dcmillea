@@ -52,7 +52,6 @@ Currently, I'm focused on:
 
 | 🔖 Item     | 📎 Link                                   |
 |------------|--------------------------------------------------|
-| 📄 Resume   | [View Resume](https://your-link.com/resume.pdf) |
 | 📧 Contact  | [Email Me](mailto:dcmillea@gmail.com)              |
 | 🌐 Website  | [dcmillea.com](https://dcmillea.com)      |
 | 💼 LinkedIn | [My Profile](https://www.linkedin.com/in/daniel-millea-3666b138a/) |
